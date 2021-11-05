@@ -6,7 +6,7 @@ var dadosPessoais = {
 	sobreNome: 'Ropke',
 	idade: 20,
 	nomeCompleto() {
-		return `${this.nome} ${this.sobreNome} tem ${this.idade}`
+		return `${this.nome} ${this.sobreNome} tem ${this.idade} anos`
 	}
 }
 console.log(dadosPessoais)

@@ -1,6 +1,7 @@
 var pessoa = {
 	nome: 'Arthur',
-	Idade: 20
+	Idade: 20,
+	cidade: 'Morro Redondo'
 }
 console.log(pessoa)
 
